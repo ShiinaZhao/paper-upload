@@ -4,4 +4,4 @@ Comparison models — Each folder or script is named after the corresponding mod
 
 Ablation studies — Code is organized according to the section titles in the paper, ensuring one-to-one correspondence.
 
-Data and trained models — The complete dataset and pre-trained models are available at “xxxxx”.
+Data and trained models — The complete dataset and pre-trained models are available at “https://huggingface.co/datasets/shiinazhao/paper-repository/tree/main”.
